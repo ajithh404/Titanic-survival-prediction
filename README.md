@@ -16,7 +16,7 @@ This project predicts passenger survival on the **Titanic** using multiple machi
  ┣ 📜 main-code.py        # Model training and evaluation  
  ┣ 📜 requirements.txt    # Dependencies  
  ┣ 📜 README.md           # Project documentation  
- ┗ 📂 data/               # Titanic dataset   
+ ┗ 📂 tested.csv/         # Titanic dataset   
 ```
 
 ## ⚙️ Setup & Installation
